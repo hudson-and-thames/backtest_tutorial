@@ -1,0 +1,5 @@
+pandas==1.4
+numpy==1.22
+seaborn==0.11
+matplotlib==3.5
+yfinance>=0.1.70
