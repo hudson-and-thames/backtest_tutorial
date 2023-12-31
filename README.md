@@ -16,8 +16,9 @@ This course offers a comprehensive introduction to backtesting trading strategie
 
 ## Repository Contents
 
-This repository includes the Jupyter Notebook used in the course, which contains:
+This repository includes the Jupyter Notebooks used in the course:
 
+- **YFinance_Tutorial**: An introduction to pulling free data from Yahoo Finance, using the yfinance library.
 - **Vectorized_Backtest_Tutorial.ipynb**: The main tutorial notebook with Python code and detailed explanations.
 
 ## Getting Started
@@ -33,7 +34,7 @@ To get started with the tutorial:
     - It is recommended to use a virtual environment.
     - Open the getting_started.md file to follow the setup instructions.
 
-4. **Run the Jupyter Notebook**: Open the `Vectorized_Backtest_Tutorial.ipynb` notebook in Jupyter and follow along with the course.
+4. **Run the Jupyter Notebooks**: Open the notebooks in Jupyter and follow along with the course.
 
 ## Prerequisites
 
