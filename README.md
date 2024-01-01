@@ -56,7 +56,3 @@ This tutorial is provided under the [MIT License](LICENSE).
 ## Contact
 
 For any queries or feedback related to this course, please contact system[at]hudsonthames.org.
-
----
-
-Feel free to customize this template as needed to fit the specifics of your course and your personal or organizational style. This includes adding or modifying sections, and updating the instructions to match the exact content and requirements of your course.
