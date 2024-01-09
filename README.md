@@ -1,6 +1,6 @@
 # Backtesting Tutorial for Algorithmic Trading
 
-Welcome to the GitHub repository for our Udemy course on backtesting for algorithmic traders. This course is designed to teach you the fundamental concepts and practical applications of backtesting trading strategies, using Python and various financial analysis libraries.
+Welcome to the GitHub repository for our [Udemy course](https://www.udemy.com/course/mastering-backtesting-for-algorithmic-trading/?referralCode=DED2C1825744E0151EAA) on backtesting for algorithmic traders. This course is designed to teach you the fundamental concepts and practical applications of backtesting trading strategies, using Python and various financial analysis libraries.
 
 ## About the Course
 
@@ -56,7 +56,3 @@ This tutorial is provided under the [MIT License](LICENSE).
 ## Contact
 
 For any queries or feedback related to this course, please contact system[at]hudsonthames.org.
-
----
-
-Feel free to customize this template as needed to fit the specifics of your course and your personal or organizational style. This includes adding or modifying sections, and updating the instructions to match the exact content and requirements of your course.
