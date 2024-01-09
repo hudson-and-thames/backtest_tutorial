@@ -20,6 +20,7 @@ This repository includes the Jupyter Notebooks used in the course:
 
 - **YFinance_Tutorial**: An introduction to pulling free data from Yahoo Finance, using the yfinance library.
 - **Vectorized_Backtest_Tutorial.ipynb**: The main tutorial notebook with Python code and detailed explanations.
+- **Intro_Transaction_Costs.ipynb**: A tutorial to show how transaction costs can be added to your backtests.
 
 ## Getting Started
 
